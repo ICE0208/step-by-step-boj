@@ -18,6 +18,8 @@ dp[N][L] : 끝이 L이고 길이가 N인 계단의 수
 
 (N==1이고 1<=L<=9 일 때, dp[N][L] = 0)
 
+해당 점화식으로 푼 소스 코드는 `main.py`, `Main.java` 이다.
+
 ## 참고 자료
 
 (https://ji-gwang.tistory.com/275)
