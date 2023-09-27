@@ -1,5 +1,8 @@
 {
     "java.project.sourcePaths": [
         "."
-    ]
+    ],
+    "code-runner.executorMap": {
+        "java": "javac -d ./bin $dir/$fileName && java -cp ./bin $fileNameWithoutExt && rm -rf ./bin",
+    },
 }
