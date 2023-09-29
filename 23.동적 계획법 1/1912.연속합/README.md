@@ -54,5 +54,6 @@ dp[n]의 값은 `n번째 수를 마지막으로 하는 연속합 중 최댓값`�
 
 ## 참고 자료
 
-(https://st-lab.tistory.com/140)
-(https://rightbellboy.tistory.com/83)
+- (https://st-lab.tistory.com/140)
+- (https://rightbellboy.tistory.com/83)
+- (https://folivora.tistory.com/89)
