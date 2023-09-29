@@ -45,4 +45,4 @@ fibonacci(n) {
 
 ## 참고 자료
 
-(https://freshmath.tistory.com/6)
+- (https://freshmath.tistory.com/6)
