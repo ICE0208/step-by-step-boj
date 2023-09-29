@@ -43,4 +43,4 @@ Set을 이용하면 이 문제를 간단히 풀 수 있다. 문제 조건에 맞
 
 ## 참고 자료
 
-(https://code-lab1.tistory.com/94)
+- (https://code-lab1.tistory.com/94)
