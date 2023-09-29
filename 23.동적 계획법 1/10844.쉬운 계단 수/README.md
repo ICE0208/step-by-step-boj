@@ -22,5 +22,5 @@ dp[N][L] : 끝이 L이고 길이가 N인 계단의 수
 
 ## 참고 자료
 
-(https://ji-gwang.tistory.com/275)
-(https://st-lab.tistory.com/134)
+- (https://ji-gwang.tistory.com/275)
+- (https://st-lab.tistory.com/134)
